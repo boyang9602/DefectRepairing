@@ -1,7 +1,15 @@
 diff -w -u -r Math61b/src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java Math61b_Patch200/src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java
 --- Math61b/src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java	2017-05-09 06:18:06.000000000 +0800
 +++ Math61b_Patch200/src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java	2017-05-09 06:21:23.000000000 +0800
-@@ -91,6 +91,7 @@
+@@ -24,6 +24,7 @@
+ import org.apache.commons.math.special.Gamma;
+ import org.apache.commons.math.util.MathUtils;
+ import org.apache.commons.math.util.FastMath;
++import org.apache.commons.math.exception.NotStrictlyPositiveException;
+ 
+ /**
+  * Implementation for the {@link PoissonDistribution}.
+@@ -91,6 +92,7 @@
       */
      public PoissonDistributionImpl(double p, double epsilon, int maxIterations) {
          if (p <= 0) {
