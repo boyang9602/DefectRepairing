@@ -10,7 +10,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.NumberUtils"
+              "org.apache.commons.lang.NumberUtils"
             ]
           },
           {
@@ -18,7 +18,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.NumberUtils"
+              "org.apache.commons.lang.NumberUtils"
             ]
           }
         ]
@@ -32,7 +32,7 @@
             "tool": "Nopol2017",
             "duplicated": true,
             "modified_classes": [
-              "src.java.org.apache.commons.lang.BooleanUtils"
+              "org.apache.commons.lang.BooleanUtils"
             ]
           },
           {
@@ -40,7 +40,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.BooleanUtils"
+              "org.apache.commons.lang.BooleanUtils"
             ]
           }
         ]
@@ -53,7 +53,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.time.DateUtils"
+              "org.apache.commons.lang.time.DateUtils"
             ]
           },
           {
@@ -61,7 +61,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.time.DateUtils"
+              "org.apache.commons.lang.time.DateUtils"
             ]
           }
         ]
@@ -74,7 +74,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.math.NumberUtils"
+              "org.apache.commons.lang.math.NumberUtils"
             ]
           },
           {
@@ -82,7 +82,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.math.NumberUtils"
+              "org.apache.commons.lang.math.NumberUtils"
             ]
           }
         ]
@@ -95,7 +95,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.lang3.math.NumberUtils"
+              "org.apache.commons.lang3.math.NumberUtils"
             ]
           }
         ]
@@ -108,7 +108,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.lang3.math.NumberUtils"
+              "org.apache.commons.lang3.math.NumberUtils"
             ]
           }
         ]
@@ -121,7 +121,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.lang3.ArrayUtils"
+              "org.apache.commons.lang3.ArrayUtils"
             ]
           }
         ]
@@ -134,7 +134,7 @@
             "correctness": "Incorrect",
             "tool": "ACS",
             "modified_classes": [
-              "src.java.org.apache.commons.lang3.StringUtils"
+              "org.apache.commons.lang3.StringUtils"
             ]
           },
           {
@@ -142,7 +142,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.lang3.StringUtils"
+              "org.apache.commons.lang3.StringUtils"
             ]
           }
         ]
@@ -155,7 +155,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.StringEscapeUtils"
+              "org.apache.commons.lang.StringEscapeUtils"
             ]
           }
         ]
@@ -168,7 +168,7 @@
             "correctness": "Correct",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.time.StopWatch"
+              "org.apache.commons.lang.time.StopWatch"
             ]
           }
         ]
@@ -181,7 +181,7 @@
             "correctness": "Correct",
             "tool": "HDRepair",
             "modified_classes": [
-              "src.java.org.apache.commons.lang.LocaleUtils"
+              "org.apache.commons.lang.LocaleUtils"
             ]
           }
         ]
@@ -194,7 +194,7 @@
             "correctness": "Incorrect",
             "tool": "HDRepair",
             "modified_classes": [
-              "src.main.java.org.apache.commons.lang3.text.translate.CharSequenceTranslator"
+              "org.apache.commons.lang3.text.translate.CharSequenceTranslator"
             ]
           }
         ]
@@ -212,7 +212,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "source.org.jfree.chart.renderer.category.AbstractCategoryItemRenderer"
+              "org.jfree.chart.renderer.category.AbstractCategoryItemRenderer"
             ]
           },
           {
@@ -221,7 +221,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "source.org.jfree.chart.renderer.category.AbstractCategoryItemRenderer"
+              "org.jfree.chart.renderer.category.AbstractCategoryItemRenderer"
             ]
           }
         ]
@@ -234,7 +234,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "source.org.jfree.chart.block.BorderArrangement"
+              "org.jfree.chart.block.BorderArrangement"
             ]
           },
           {
@@ -242,7 +242,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "source.org.jfree.chart.block.BorderArrangement"
+              "org.jfree.chart.block.BorderArrangement"
             ]
           },
           {
@@ -251,7 +251,7 @@
             "tool": "Nopol2017",
             "duplicated": true,
             "modified_classes": [
-              "source.org.jfree.chart.block.BorderArrangement"
+              "org.jfree.chart.block.BorderArrangement"
             ]
           },
           {
@@ -259,7 +259,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "source.org.jfree.chart.block.BorderArrangement"
+              "org.jfree.chart.block.BorderArrangement"
             ]
           }
         ]
@@ -272,7 +272,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "source.org.jfree.chart.JFreeChart"
+              "org.jfree.chart.JFreeChart"
             ]
           },
           {
@@ -280,7 +280,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "source.org.jfree.chart.plot.PiePlot3D"
+              "org.jfree.chart.plot.PiePlot3D"
             ]
           }
         ]
@@ -293,7 +293,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "source.org.jfree.data.Range"
+              "org.jfree.data.Range"
             ]
           },
           {
@@ -301,7 +301,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "source.org.jfree.data.Range"
+              "org.jfree.data.Range"
             ]
           }
         ]
@@ -314,7 +314,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "source.org.jfree.data.statistics.DefaultStatisticalCategoryDataset"
+              "org.jfree.data.statistics.DefaultStatisticalCategoryDataset"
             ]
           },
           {
@@ -322,7 +322,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "source.org.jfree.chart.renderer.category.StatisticalBarRenderer"
+              "org.jfree.chart.renderer.category.StatisticalBarRenderer"
             ]
           },
           {
@@ -330,7 +330,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "source.org.jfree.chart.renderer.category.StatisticalBarRenderer"
+              "org.jfree.chart.renderer.category.StatisticalBarRenderer"
             ]
           },
           {
@@ -339,7 +339,7 @@
             "tool": "Nopol2017",
             "duplicated": true,
             "modified_classes": [
-              "source.org.jfree.chart.renderer.category.StatisticalBarRenderer"
+              "org.jfree.chart.renderer.category.StatisticalBarRenderer"
             ]
           }
         ]
@@ -352,7 +352,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "source.org.jfree.chart.plot.CategoryPlot"
+              "org.jfree.chart.plot.CategoryPlot"
             ]
           },
           {
@@ -360,7 +360,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "source.org.jfree.chart.axis.AxisCollection"
+              "org.jfree.chart.axis.AxisCollection"
             ]
           },
           {
@@ -368,7 +368,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "source.org.jfree.chart.plot.CategoryPlot"
+              "org.jfree.chart.plot.CategoryPlot"
             ]
           }
         ]
@@ -381,8 +381,8 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "source.org.jfree.chart.plot.CategoryPlot",
-              "source.org.jfree.chart.plot.XYPlot"
+              "org.jfree.chart.plot.CategoryPlot",
+              "org.jfree.chart.plot.XYPlot"
             ]
           }
         ]
@@ -395,7 +395,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "source.org.jfree.chart.plot.CategoryPlot"
+              "org.jfree.chart.plot.CategoryPlot"
             ]
           }
         ]
@@ -408,7 +408,7 @@
             "correctness": "Correct",
             "tool": "jGenprog",
             "modified_classes": [
-              "source.org.jfree.data.time.TimeSeries"
+              "org.jfree.data.time.TimeSeries"
             ]
           },
           {
@@ -416,7 +416,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "source.org.jfree.data.time.TimeSeries"
+              "org.jfree.data.time.TimeSeries"
             ]
           },
           {
@@ -424,7 +424,7 @@
             "correctness": "Unknown",
             "tool": "Nopol2017",
             "modified_classes": [
-              "source.org.jfree.data.time.TimeSeries"
+              "org.jfree.data.time.TimeSeries"
             ]
           }
         ]
@@ -437,7 +437,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "source.org.jfree.data.xy.XYSeries"
+              "org.jfree.data.xy.XYSeries"
             ]
           },
           {
@@ -446,7 +446,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "source.org.jfree.data.xy.XYSeries"
+              "org.jfree.data.xy.XYSeries"
             ]
           },
           {
@@ -454,7 +454,7 @@
             "correctness": "Correct",
             "tool": "Nopol2015",
             "modified_classes": [
-              "source.org.jfree.data.xy.XYSeries"
+              "org.jfree.data.xy.XYSeries"
             ]
           },
           {
@@ -462,7 +462,7 @@
             "correctness": "Unknown",
             "tool": "Nopol2017",
             "modified_classes": [
-              "source.org.jfree.data.xy.XYSeries"
+              "org.jfree.data.xy.XYSeries"
             ]
           }
         ]
@@ -475,7 +475,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "source.org.jfree.data.time.TimePeriodValues"
+              "org.jfree.data.time.TimePeriodValues"
             ]
           }
         ]
@@ -488,7 +488,7 @@
             "correctness": "Unknown",
             "tool": "Nopol2017",
             "modified_classes": [
-              "source.org.jfree.chart.plot.XYPlot"
+              "org.jfree.chart.plot.XYPlot"
             ]
           }
         ]
@@ -501,7 +501,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "source.org.jfree.data.time.TimeSeries"
+              "org.jfree.data.time.TimeSeries"
             ]
           }
         ]
@@ -514,7 +514,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "source.org.jfree.data.time.TimeSeries"
+              "org.jfree.data.time.TimeSeries"
             ]
           }
         ]
@@ -532,7 +532,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -545,7 +545,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -558,7 +558,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.ControlFlowAnalysis"
+              "com.google.javascript.jscomp.ControlFlowAnalysis"
             ]
           }
         ]
@@ -571,7 +571,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -584,7 +584,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -597,7 +597,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.TypedScopeCreator"
+              "com.google.javascript.jscomp.TypedScopeCreator"
             ]
           }
         ]
@@ -610,7 +610,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -623,7 +623,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -636,7 +636,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.CheckSideEffects"
+              "com.google.javascript.jscomp.CheckSideEffects"
             ]
           }
         ]
@@ -649,7 +649,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.CheckSideEffects"
+              "com.google.javascript.jscomp.CheckSideEffects"
             ]
           }
         ]
@@ -662,7 +662,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -675,7 +675,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -688,7 +688,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -701,7 +701,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -714,7 +714,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -727,7 +727,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.jstype.PrototypeObjectType"
+              "com.google.javascript.rhino.jstype.PrototypeObjectType"
             ]
           }
         ]
@@ -740,7 +740,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.jstype.JSTypeRegistry"
+              "com.google.javascript.rhino.jstype.JSTypeRegistry"
             ]
           }
         ]
@@ -753,7 +753,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -766,7 +766,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.CodeConsumer"
+              "com.google.javascript.jscomp.CodeConsumer"
             ]
           }
         ]
@@ -779,7 +779,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -792,7 +792,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -805,7 +805,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -818,7 +818,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -831,7 +831,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.FunctionRewriter"
+              "com.google.javascript.jscomp.FunctionRewriter"
             ]
           }
         ]
@@ -844,7 +844,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax"
+              "com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax"
             ]
           }
         ]
@@ -857,7 +857,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -870,7 +870,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.LightweightMessageFormatter"
+              "com.google.javascript.jscomp.LightweightMessageFormatter"
             ]
           }
         ]
@@ -883,7 +883,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.LightweightMessageFormatter"
+              "com.google.javascript.jscomp.LightweightMessageFormatter"
             ]
           }
         ]
@@ -896,7 +896,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.TypeCheck"
+              "com.google.javascript.jscomp.TypeCheck"
             ]
           }
         ]
@@ -909,7 +909,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -922,7 +922,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -935,7 +935,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -948,7 +948,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -961,7 +961,7 @@
             "correctness": "Correct",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.PeepholeFoldConstants"
+              "com.google.javascript.jscomp.PeepholeFoldConstants"
             ]
           }
         ]
@@ -974,7 +974,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.testing.Asserts"
+              "com.google.javascript.rhino.testing.Asserts"
             ]
           }
         ]
@@ -987,7 +987,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.ProcessClosurePrimitives"
+              "com.google.javascript.jscomp.ProcessClosurePrimitives"
             ]
           }
         ]
@@ -1000,7 +1000,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1013,7 +1013,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1026,7 +1026,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1039,7 +1039,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.GlobalNamespace"
+              "com.google.javascript.jscomp.GlobalNamespace"
             ]
           }
         ]
@@ -1052,7 +1052,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1065,7 +1065,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1078,7 +1078,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1091,7 +1091,7 @@
             "correctness": "Correct",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.MinimizeExitPoints"
+              "com.google.javascript.jscomp.MinimizeExitPoints"
             ]
           }
         ]
@@ -1104,7 +1104,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1117,7 +1117,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1130,7 +1130,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1143,7 +1143,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1156,7 +1156,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1169,7 +1169,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.parsing.JsDocInfoParser"
+              "com.google.javascript.jscomp.parsing.JsDocInfoParser"
             ]
           }
         ]
@@ -1182,7 +1182,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1195,7 +1195,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.jscomp.TypeCheck"
+              "com.google.javascript.jscomp.TypeCheck"
             ]
           }
         ]
@@ -1208,7 +1208,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1221,7 +1221,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1234,7 +1234,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.testing.Asserts"
+              "com.google.javascript.rhino.testing.Asserts"
             ]
           }
         ]
@@ -1247,7 +1247,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.com.google.javascript.rhino.Node"
+              "com.google.javascript.rhino.Node"
             ]
           }
         ]
@@ -1265,7 +1265,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.distribution.AbstractIntegerDistribution"
+              "org.apache.commons.math3.distribution.AbstractIntegerDistribution"
             ]
           },
           {
@@ -1273,7 +1273,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.distribution.AbstractIntegerDistribution"
+              "org.apache.commons.math3.distribution.AbstractIntegerDistribution"
             ]
           },
           {
@@ -1282,7 +1282,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.distribution.AbstractIntegerDistribution"
+              "org.apache.commons.math3.distribution.AbstractIntegerDistribution"
             ]
           }
         ]
@@ -1295,7 +1295,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.geometry.euclidean.twod.Line"
+              "org.apache.commons.math3.geometry.euclidean.twod.Line"
             ]
           },
           {
@@ -1303,8 +1303,8 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.geometry.euclidean.threed.SubLine",
-              "src.main.java.org.apache.commons.math3.geometry.euclidean.twod.SubLine"
+              "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+              "org.apache.commons.math3.geometry.euclidean.twod.SubLine"
             ]
           }
         ]
@@ -1317,7 +1317,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.ode.AbstractIntegrator"
+              "org.apache.commons.math3.ode.AbstractIntegrator"
             ]
           }
         ]
@@ -1330,7 +1330,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.analysis.FunctionUtils"
+              "org.apache.commons.math3.analysis.FunctionUtils"
             ]
           }
         ]
@@ -1343,7 +1343,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.optimization.linear.SimplexSolver"
+              "org.apache.commons.math3.optimization.linear.SimplexSolver"
             ]
           },
           {
@@ -1351,7 +1351,7 @@
             "correctness": "Incorrect",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.optimization.linear.SimplexSolver"
+              "org.apache.commons.math3.optimization.linear.SimplexSolver"
             ]
           },
           {
@@ -1359,7 +1359,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.optimization.linear.SimplexSolver"
+              "org.apache.commons.math3.optimization.linear.SimplexSolver"
             ]
           },
           {
@@ -1367,7 +1367,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.optimization.linear.SimplexSolver"
+              "org.apache.commons.math3.optimization.linear.SimplexSolver"
             ]
           }
         ]
@@ -1380,7 +1380,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.optimization.linear.SimplexTableau"
+              "org.apache.commons.math3.optimization.linear.SimplexTableau"
             ]
           },
           {
@@ -1388,7 +1388,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.optimization.linear.SimplexTableau"
+              "org.apache.commons.math3.optimization.linear.SimplexTableau"
             ]
           }
         ]
@@ -1401,7 +1401,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator"
+              "org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator"
             ]
           }
         ]
@@ -1414,7 +1414,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver"
+              "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver"
             ]
           },
           {
@@ -1422,7 +1422,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver"
+              "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver"
             ]
           },
           {
@@ -1430,7 +1430,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver"
+              "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver"
             ]
           },
           {
@@ -1438,7 +1438,7 @@
             "correctness": "Unknown",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver"
+              "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver"
             ]
           }
         ]
@@ -1451,7 +1451,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.stat.descriptive.moment.Mean"
+              "org.apache.commons.math.stat.descriptive.moment.Mean"
             ]
           }
         ]
@@ -1464,7 +1464,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.linear.SimplexTableau"
+              "org.apache.commons.math.optimization.linear.SimplexTableau"
             ]
           },
           {
@@ -1472,7 +1472,7 @@
             "correctness": "Unknown",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.linear.SimplexTableau"
+              "org.apache.commons.math.optimization.linear.SimplexTableau"
             ]
           }
         ]
@@ -1485,7 +1485,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.ode.AbstractIntegrator"
+              "org.apache.commons.math.ode.AbstractIntegrator"
             ]
           }
         ]
@@ -1498,7 +1498,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.OpenMapRealVector"
+              "org.apache.commons.math.linear.OpenMapRealVector"
             ]
           },
           {
@@ -1506,7 +1506,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.OpenMapRealVector"
+              "org.apache.commons.math.linear.OpenMapRealVector"
             ]
           },
           {
@@ -1515,7 +1515,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.OpenMapRealVector"
+              "org.apache.commons.math.linear.OpenMapRealVector"
             ]
           },
           {
@@ -1523,7 +1523,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.OpenMapRealVector"
+              "org.apache.commons.math.linear.OpenMapRealVector"
             ]
           }
         ]
@@ -1536,7 +1536,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BaseSecantSolver"
+              "org.apache.commons.math.analysis.solvers.BaseSecantSolver"
             ]
           },
           {
@@ -1544,7 +1544,7 @@
             "correctness": "Correct",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BaseSecantSolver"
+              "org.apache.commons.math.analysis.solvers.BaseSecantSolver"
             ]
           },
           {
@@ -1553,7 +1553,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BaseSecantSolver"
+              "org.apache.commons.math.analysis.solvers.BaseSecantSolver"
             ]
           },
           {
@@ -1561,7 +1561,7 @@
             "correctness": "Correct",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BaseSecantSolver"
+              "org.apache.commons.math.analysis.solvers.BaseSecantSolver"
             ]
           },
           {
@@ -1569,7 +1569,7 @@
             "correctness": "Incorrect",
             "tool": "HDRepair",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BaseSecantSolver"
+              "org.apache.commons.math.analysis.solvers.BaseSecantSolver"
             ]
           }
         ]
@@ -1582,7 +1582,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.stat.clustering.EuclideanIntegerPoint"
+              "org.apache.commons.math.stat.clustering.EuclideanIntegerPoint"
             ]
           },
           {
@@ -1590,7 +1590,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.stat.clustering.EuclideanIntegerPoint"
+              "org.apache.commons.math.stat.clustering.EuclideanIntegerPoint"
             ]
           }
         ]
@@ -1603,7 +1603,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.function.Gaussian"
+              "org.apache.commons.math.analysis.function.Gaussian"
             ]
           },
           {
@@ -1611,7 +1611,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer"
+              "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer"
             ]
           }
         ]
@@ -1625,7 +1625,7 @@
             "tool": "Nopol2017",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.stat.correlation.PearsonsCorrelation"
+              "org.apache.commons.math.stat.correlation.PearsonsCorrelation"
             ]
           },
           {
@@ -1633,7 +1633,7 @@
             "correctness": "Unknown",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.stat.correlation.PearsonsCorrelation"
+              "org.apache.commons.math.stat.correlation.PearsonsCorrelation"
             ]
           }
         ]
@@ -1647,7 +1647,7 @@
             "tool": "Nopol2017",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl"
+              "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl"
             ]
           },
           {
@@ -1655,7 +1655,7 @@
             "correctness": "Incorrect",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BrentSolver"
+              "org.apache.commons.math.analysis.solvers.BrentSolver"
             ]
           },
           {
@@ -1663,7 +1663,7 @@
             "correctness": "Correct",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BrentSolver"
+              "org.apache.commons.math.analysis.solvers.BrentSolver"
             ]
           },
           {
@@ -1671,7 +1671,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl"
+              "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl"
             ]
           }
         ]
@@ -1684,7 +1684,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BrentSolver"
+              "org.apache.commons.math.analysis.solvers.BrentSolver"
             ]
           },
           {
@@ -1692,7 +1692,7 @@
             "correctness": "Unknown",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.ode.events.EventState"
+              "org.apache.commons.math.ode.events.EventState"
             ]
           },
           {
@@ -1701,7 +1701,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.ode.events.EventState"
+              "org.apache.commons.math.ode.events.EventState"
             ]
           },
           {
@@ -1709,7 +1709,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BrentSolver"
+              "org.apache.commons.math.analysis.solvers.BrentSolver"
             ]
           }
         ]
@@ -1723,7 +1723,7 @@
             "tool": "Nopol2017",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.EigenDecompositionImpl"
+              "org.apache.commons.math.linear.EigenDecompositionImpl"
             ]
           },
           {
@@ -1731,7 +1731,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.EigenDecompositionImpl"
+              "org.apache.commons.math.linear.EigenDecompositionImpl"
             ]
           },
           {
@@ -1739,7 +1739,7 @@
             "correctness": "Unknown",
             "tool": "jKali",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.EigenDecompositionImpl"
+              "org.apache.commons.math.linear.EigenDecompositionImpl"
             ]
           },
           {
@@ -1747,7 +1747,7 @@
             "correctness": "Unknown",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.EigenDecompositionImpl"
+              "org.apache.commons.math.linear.EigenDecompositionImpl"
             ]
           }
         ]
@@ -1760,7 +1760,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.EigenDecompositionImpl"
+              "org.apache.commons.math.linear.EigenDecompositionImpl"
             ]
           },
           {
@@ -1768,7 +1768,7 @@
             "correctness": "Incorrect",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.EigenDecompositionImpl"
+              "org.apache.commons.math.linear.EigenDecompositionImpl"
             ]
           },
           {
@@ -1776,7 +1776,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.EigenDecompositionImpl"
+              "org.apache.commons.math.linear.EigenDecompositionImpl"
             ]
           },
           {
@@ -1784,7 +1784,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.EigenDecompositionImpl"
+              "org.apache.commons.math.linear.EigenDecompositionImpl"
             ]
           },
           {
@@ -1792,7 +1792,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.linear.EigenDecompositionImpl"
+              "org.apache.commons.math.linear.EigenDecompositionImpl"
             ]
           }
         ]
@@ -1805,7 +1805,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
+              "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
             ]
           },
           {
@@ -1813,7 +1813,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
+              "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
             ]
           },
           {
@@ -1821,7 +1821,7 @@
             "correctness": "Unknown",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
+              "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
             ]
           },
           {
@@ -1830,7 +1830,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "src.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
+              "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
             ]
           },
           {
@@ -1838,7 +1838,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
+              "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
             ]
           },
           {
@@ -1846,7 +1846,7 @@
             "correctness": "Incorrect",
             "tool": "HDRepair",
             "modified_classes": [
-              "src.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
+              "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils"
             ]
           }
         ]
@@ -1859,7 +1859,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.java.org.apache.commons.math.optimization.linear.SimplexTableau"
+              "org.apache.commons.math.optimization.linear.SimplexTableau"
             ]
           },
           {
@@ -1867,7 +1867,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.math.optimization.linear.SimplexTableau"
+              "org.apache.commons.math.optimization.linear.SimplexTableau"
             ]
           }
         ]
@@ -1880,7 +1880,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.java.org.apache.commons.math.optimization.linear.SimplexTableau"
+              "org.apache.commons.math.optimization.linear.SimplexTableau"
             ]
           },
           {
@@ -1888,7 +1888,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.math.optimization.linear.SimplexTableau"
+              "org.apache.commons.math.optimization.linear.SimplexTableau"
             ]
           }
         ]
@@ -1901,7 +1901,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.java.org.apache.commons.math.stat.regression.SimpleRegression"
+              "org.apache.commons.math.stat.regression.SimpleRegression"
             ]
           },
           {
@@ -1909,7 +1909,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.math.stat.regression.SimpleRegression"
+              "org.apache.commons.math.stat.regression.SimpleRegression"
             ]
           }
         ]
@@ -1922,7 +1922,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.util.MathArrays"
+              "org.apache.commons.math3.util.MathArrays"
             ]
           }
         ]
@@ -1936,7 +1936,7 @@
             "tool": "ACS",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.complex.Complex"
+              "org.apache.commons.math3.complex.Complex"
             ]
           },
           {
@@ -1944,7 +1944,7 @@
             "correctness": "Correct",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.complex.Complex"
+              "org.apache.commons.math3.complex.Complex"
             ]
           }
         ]
@@ -1957,7 +1957,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.optimization.fitting.HarmonicFitter"
+              "org.apache.commons.math3.optimization.fitting.HarmonicFitter"
             ]
           }
         ]
@@ -1970,7 +1970,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.genetics.ElitisticListPopulation"
+              "org.apache.commons.math3.genetics.ElitisticListPopulation"
             ]
           }
         ]
@@ -1983,7 +1983,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.distribution.PoissonDistributionImpl"
+              "org.apache.commons.math.distribution.PoissonDistributionImpl"
             ]
           }
         ]
@@ -1996,7 +1996,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.linear.SimplexSolver"
+              "org.apache.commons.math.optimization.linear.SimplexSolver"
             ]
           },
           {
@@ -2004,7 +2004,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.linear.SimplexSolver"
+              "org.apache.commons.math.optimization.linear.SimplexSolver"
             ]
           },
           {
@@ -2013,7 +2013,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.linear.SimplexSolver"
+              "org.apache.commons.math.optimization.linear.SimplexSolver"
             ]
           },
           {
@@ -2021,7 +2021,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.linear.SimplexSolver"
+              "org.apache.commons.math.optimization.linear.SimplexSolver"
             ]
           },
           {
@@ -2029,7 +2029,7 @@
             "correctness": "Incorrect",
             "tool": "HDRepair",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.linear.SimplexSolver"
+              "org.apache.commons.math.optimization.linear.SimplexSolver"
             ]
           }
         ]
@@ -2042,7 +2042,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.java.org.apache.commons.math.stat.Frequency"
+              "org.apache.commons.math.stat.Frequency"
             ]
           }
         ]
@@ -2055,7 +2055,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.java.org.apache.commons.math.stat.Frequency"
+              "org.apache.commons.math.stat.Frequency"
             ]
           }
         ]
@@ -2068,7 +2068,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.java.org.apache.commons.math.util.MathUtils"
+              "org.apache.commons.math.util.MathUtils"
             ]
           }
         ]
@@ -2081,7 +2081,7 @@
             "correctness": "Incorrect",
             "tool": "ACS",
             "modified_classes": [
-              "src.java.org.apache.commons.math.analysis.BrentSolver"
+              "org.apache.commons.math.analysis.BrentSolver"
             ]
           },
           {
@@ -2089,7 +2089,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.math.analysis.BrentSolver"
+              "org.apache.commons.math.analysis.BrentSolver"
             ]
           }
         ]
@@ -2102,7 +2102,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.java.org.apache.commons.math.util.MathUtils"
+              "org.apache.commons.math.util.MathUtils"
             ]
           }
         ]
@@ -2115,7 +2115,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.distribution.DiscreteDistribution"
+              "org.apache.commons.math3.distribution.DiscreteDistribution"
             ]
           },
           {
@@ -2124,7 +2124,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.distribution.DiscreteDistribution"
+              "org.apache.commons.math3.distribution.DiscreteDistribution"
             ]
           }
         ]
@@ -2137,7 +2137,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet"
+              "org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet"
             ]
           },
           {
@@ -2145,7 +2145,7 @@
             "correctness": "Unknown",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.geometry.partitioning.AbstractRegion"
+              "org.apache.commons.math3.geometry.partitioning.AbstractRegion"
             ]
           }
         ]
@@ -2158,7 +2158,7 @@
             "correctness": "Correct",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.complex.Complex"
+              "org.apache.commons.math.complex.Complex"
             ]
           },
           {
@@ -2166,7 +2166,7 @@
             "correctness": "Incorrect",
             "tool": "HDRepair",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.complex.Complex"
+              "org.apache.commons.math.complex.Complex"
             ]
           }
         ]
@@ -2179,7 +2179,7 @@
             "correctness": "Correct",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BisectionSolver"
+              "org.apache.commons.math.analysis.solvers.BisectionSolver"
             ]
           },
           {
@@ -2188,7 +2188,7 @@
             "tool": "HDRepair",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BisectionSolver"
+              "org.apache.commons.math.analysis.solvers.BisectionSolver"
             ]
           }
         ]
@@ -2201,7 +2201,7 @@
             "correctness": "Unknown",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.ode.events.EventState"
+              "org.apache.commons.math.ode.events.EventState"
             ]
           },
           {
@@ -2209,7 +2209,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.analysis.solvers.BrentSolver"
+              "org.apache.commons.math.analysis.solvers.BrentSolver"
             ]
           }
         ]
@@ -2222,7 +2222,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.direct.MultiDirectional"
+              "org.apache.commons.math.optimization.direct.MultiDirectional"
             ]
           },
           {
@@ -2230,7 +2230,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math.optimization.direct.MultiDirectional"
+              "org.apache.commons.math.optimization.direct.MultiDirectional"
             ]
           }
         ]
@@ -2243,7 +2243,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.java.org.apache.commons.math.distribution.FDistributionImpl"
+              "org.apache.commons.math.distribution.FDistributionImpl"
             ]
           },
           {
@@ -2251,7 +2251,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "src.java.org.apache.commons.math.distribution.FDistributionImpl"
+              "org.apache.commons.math.distribution.FDistributionImpl"
             ]
           }
         ]
@@ -2264,7 +2264,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.java.org.apache.commons.math.special.Gamma"
+              "org.apache.commons.math.special.Gamma"
             ]
           }
         ]
@@ -2277,7 +2277,7 @@
             "correctness": "Incorrect",
             "tool": "HDRepair",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.distribution.FDistribution"
+              "org.apache.commons.math3.distribution.FDistribution"
             ]
           }
         ]
@@ -2290,7 +2290,7 @@
             "correctness": "Correct",
             "tool": "HDRepair",
             "modified_classes": [
-              "src.main.java.org.apache.commons.math3.genetics.ListPopulation"
+              "org.apache.commons.math3.genetics.ListPopulation"
             ]
           }
         ]
@@ -2308,7 +2308,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.joda.time.Partial"
+              "org.joda.time.Partial"
             ]
           },
           {
@@ -2316,7 +2316,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.joda.time.field.ZeroIsMaxDateTimeField"
+              "org.joda.time.field.ZeroIsMaxDateTimeField"
             ]
           },
           {
@@ -2324,7 +2324,7 @@
             "correctness": "Incorrect",
             "tool": "jKali",
             "modified_classes": [
-              "src.main.java.org.joda.time.field.ZeroIsMaxDateTimeField"
+              "org.joda.time.field.ZeroIsMaxDateTimeField"
             ]
           }
         ]
@@ -2337,7 +2337,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.joda.time.format.DateTimeParserBucket"
+              "org.joda.time.format.DateTimeParserBucket"
             ]
           }
         ]
@@ -2350,7 +2350,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.joda.time.tz.DateTimeZoneBuilder"
+              "org.joda.time.tz.DateTimeZoneBuilder"
             ]
           },
           {
@@ -2358,7 +2358,7 @@
             "correctness": "Incorrect",
             "tool": "jGenprog",
             "modified_classes": [
-              "src.main.java.org.joda.time.tz.DateTimeZoneBuilder"
+              "org.joda.time.tz.DateTimeZoneBuilder"
             ]
           },
           {
@@ -2367,7 +2367,7 @@
             "tool": "jKali",
             "duplicated": true,
             "modified_classes": [
-              "src.main.java.org.joda.time.tz.DateTimeZoneBuilder"
+              "org.joda.time.tz.DateTimeZoneBuilder"
             ]
           },
           {
@@ -2375,7 +2375,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2015",
             "modified_classes": [
-              "src.main.java.org.joda.time.tz.DateTimeZoneBuilder"
+              "org.joda.time.tz.DateTimeZoneBuilder"
             ]
           }
         ]
@@ -2388,7 +2388,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.joda.time.LocalDateTime"
+              "org.joda.time.LocalDateTime"
             ]
           }
         ]
@@ -2401,7 +2401,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.joda.time.chrono.BasicMonthOfYearDateTimeField"
+              "org.joda.time.chrono.BasicMonthOfYearDateTimeField"
             ]
           }
         ]
@@ -2414,7 +2414,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.joda.time.format.DateTimeParserBucket"
+              "org.joda.time.format.DateTimeParserBucket"
             ]
           }
         ]
@@ -2427,7 +2427,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.joda.time.chrono.BasicChronology"
+              "org.joda.time.chrono.BasicChronology"
             ]
           }
         ]
@@ -2440,7 +2440,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.main.java.org.joda.time.DateTimeZone"
+              "org.joda.time.DateTimeZone"
             ]
           },
           {
@@ -2448,7 +2448,7 @@
             "correctness": "Correct",
             "tool": "HDRepair",
             "modified_classes": [
-              "src.main.java.org.joda.time.DateTimeZone"
+              "org.joda.time.DateTimeZone"
             ]
           }
         ]
@@ -2461,7 +2461,7 @@
             "correctness": "Correct",
             "tool": "ACS",
             "modified_classes": [
-              "src.main.java.org.joda.time.field.FieldUtils"
+              "org.joda.time.field.FieldUtils"
             ]
           }
         ]
@@ -2479,7 +2479,7 @@
             "correctness": "Correct",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.org.mockito.internal.matchers.Same"
+              "org.mockito.internal.matchers.Same"
             ]
           }
         ]
@@ -2492,7 +2492,7 @@
             "correctness": "Incorrect",
             "tool": "Nopol2017",
             "modified_classes": [
-              "src.org.mockito.internal.matchers.Equals"
+              "org.mockito.internal.matchers.Equals"
             ]
           }
         ]
